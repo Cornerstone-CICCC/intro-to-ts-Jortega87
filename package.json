@@ -1,0 +1,24 @@
+{
+  "name": "intro-to-ts-jortega87",
+  "version": "1.0.0",
+  "description": "Open a terminal and run the following command to install TypeScript.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Cornerstone-CICCC/intro-to-ts-Jortega87.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Cornerstone-CICCC/intro-to-ts-Jortega87/issues"
+  },
+  "homepage": "https://github.com/Cornerstone-CICCC/intro-to-ts-Jortega87#readme",
+  "dependencies": {
+    "typescript": "^6.0.3"
+  }
+}
